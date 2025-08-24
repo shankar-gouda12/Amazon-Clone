@@ -1,0 +1,70 @@
+h1{color: blue;}
+button {
+    color: rgb(255, 0, 0);
+    background-color: rgb(109, 255, 80);
+}
+body{
+    background-color:#889696;
+}
+form {color: black;
+background-color: rgba(196, 9, 9, 0.979);}
+
+input {color: rgba(255, 0, 0, 0.89);
+background-color: aqua;}
+#headingOne {
+    color: brown;
+}
+.myclass {
+    color: rgb(81, 255, 0);
+}
+#box { background-color: blue;
+color: white;}
+/* .heading {
+    color: red;
+} */
+ h1,h2,h3{
+    color:rgb(59, 26, 206);
+    font-family: Times New Roman;
+ }
+ p { text-align: center;
+text-decoration: red underline;} 
+ h1 {
+    text-align: center;
+    text-decoration: overline;
+    text-decoration: dotted underline;
+    text-decoration: wavy underline;
+    text-decoration: line-through;
+    text-decoration: underline;
+ }
+a {
+    text-decoration: none;
+}
+#h1 { 
+    font-weight: normal;
+}
+#h2 { 
+    font-weight: bold;
+}
+#h3 { 
+    font-weight: 390;
+}
+#one {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#two {
+    font-family: 'Courier New', Courier, monospace;
+}
+#one {
+    font-size: 25px;
+}
+#two {
+    line-height: normal;
+    text-transform:uppercase ; 
+    text-transform: capitalize;
+}
+#outer {
+    font-size:25px ;
+}
+#inner {
+    font-size: 10px;
+}

@@ -1,0 +1,153 @@
+/*div {
+    height: 100px;
+    width: 100px;
+    color: blue;
+    background-color: rgb(204, 241, 37);
+    border-width: 6px;
+     border-style: solid;
+     border-color: cornflowerblue;
+     text-align: center;
+     border-radius: 0px;
+     /*padding-left: 25px;
+     padding-right: 25px;
+     padding-bottom: 25px;}
+     padding: 25px;
+     margin: 50px 50px 50px 50px;*/
+/*h1 {
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    background-color: aqua;
+    /*border-width: 10px;
+    border-style: dotted;
+    border-color: brown;
+    border: 10px solid red;
+    border-radius: 20px;
+}
+div {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50px;
+}
+pre {
+    background-color: black;
+    color: aliceblue;
+}
+button {
+    color: aliceblue;
+    background-color: rgba(255, 145, 0, 0.801);
+}
+#amazon.in {
+    height: 25px;
+    width: 25px;
+}*/
+/* {
+    padding: 0;
+    margin: 0;
+}
+#navbar {
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+}
+button{
+    background-color: #f08804;
+    text-align: center;
+}
+#logo{
+    color:#f08804 ;
+    font-size: 25px;
+}
+a {
+    margin-right: 200px;
+    text-decoration: none;
+    color: white;
+}
+.cart-icon {
+  width: 20px;              
+  height: 20px;
+  vertical-align: middle;   
+  margin-left: 5px;   
+  margin-top: 1px;      
+.gown {
+    height: 300px;
+    border-style: solid;
+    border-radius: 50px;
+    margin-left: 500px; 
+}
+.monika{ 
+    height: 500px;
+     border-radius: 500px;
+     border-style: dotted;
+     margin-left: 415px;
+}
+h1{ 
+    text-align: center;
+
+}
+.gownone{ 
+    margin-left: 500px;
+
+}
+div {
+    background-color: #22e0e0;
+    display: inline;
+}
+button {
+    display: block;
+}*/
+/* div { 
+    width: 100px;
+    height: 100px;
+    margin:25px ;
+    padding: 25px;
+    display: inline-block;
+    background-color: rgba(255, 0,0, 0.5);
+}
+#box1 {
+background-color: rgba(0, 0, 255, 0.5) ;
+}
+#box2 {
+background-color: rgba(0, 0, 255, 0.75) ;
+}
+#box3 {
+background-color: rgba(0, 0, 255, 1) ;
+} */
+
+ * {
+    padding: 0;
+    margin: 0;
+}
+#navbar {
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+}
+button{
+    background-color: #f08804;
+    text-align: center;
+}
+#logo{
+    color:#f08804 ;
+    font-size: 25px;
+}
+a {
+    margin-right: 200px;
+    text-decoration: none;
+    color: white;}
+.contentbox {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+ }
+ #content {
+    height: 555px;
+ }
+footer {
+    background-color: #0f1111;
+    color: aliceblue;
+    text-align: center;
+    
+}
