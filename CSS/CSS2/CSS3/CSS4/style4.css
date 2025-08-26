@@ -1,0 +1,135 @@
+/* 
+body {
+    text-align: center;
+}
+div{
+    height: 100px;
+    width: 200px;
+    display: inline-block;
+    border: 2px solid black;
+}
+#container{
+width: 600px;
+height: 300px;
+display: flex;
+flex-direction: row;
+/* flex-direction: column; */
+/* flex-direction: column-reverse; */
+/* justify-content: center; */
+/* justify-content: space-around; */
+/* justify-content: space-between; */
+/* justify-content: space-evenly; */
+/* align-items: flex-start; */
+/* flex-wrap: wrap ; */
+/* align-content: center; */
+/* align-content: start; */
+/* }
+#box1{
+    background-color: aqua;
+   
+}
+#box2{
+    background-color: palevioletred;
+      height: 200px;
+      /* align-self: flex-end; */
+      /* flex-shrink:1 ; */
+      /* flex-grow: 2;
+}
+#box3{
+    background-color: burlywood;
+      height: 75px;
+}
+#box4{
+    background-color: brown;
+}
+#box5{
+    background-color: blueviolet;
+       
+} */ 
+/* div {
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    color: black;
+    background-color: aqua;
+   
+}
+li {
+    list-style-type: none;
+    display: inline;
+   
+} */
+ /* .navbar {
+    background-color: palevioletred;
+    display: flex;
+    justify-content: space-evenly;
+ }
+ a {
+    text-decoration: none;
+    color: white;
+ }
+ li {
+     list-style-type: none;
+     /* background-color: brown; */
+ /* }
+ .outer {
+    height: 400px;
+    width: 400px;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .inner{
+    height: 100px;
+    width: 100px;
+    background-color: aliceblue;
+ } */ 
+  /* div{
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+  }
+  @media (width : 600px){
+    div{
+        background-color: red;
+    }
+  }
+  @media(min-width : 600px){ 
+    div{
+        background-color: green;
+    }
+  }
+ @media(min-width : 200px) and (max-width:300px){ 
+    div{
+        background-color: green;
+    }
+  } */
+   div{
+    height: 200px;
+    width: 200px;
+    background-color: chocolate;
+   }
+   @media (max-width : 300px){
+    div{
+        background-color: green;
+    }
+   }
+    @media (min-width : 300px) and (max-width : 400px){
+    div{
+        background-color: pink;
+    }
+   }
+    @media (min-width : 400px) and (max-width : 600px){
+    div{
+        background-color: red;
+    }
+   }
+   @media (min-width : 600px){
+    div{
+        background-color: blue;
+    }
+   }
